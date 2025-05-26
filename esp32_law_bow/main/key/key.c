@@ -9,7 +9,7 @@
 
 
 #include "key.h"
-#define GPIO0_INPUT_IO     0
+#define GPIO0_INPUT_IO     9
 #define DEBOUNCE_TIME_MS   30
 #define DOUBLE_CLICK_INTERVAL_MS 300
 #define LONG_PRESS_TIME_MS 3000

@@ -1,6 +1,8 @@
 ## IDF Component Manager Manifest File
 dependencies:
   espressif/esp-dsp: "*"               # DSP库
+  espressif/led_strip: "*"
+
 
   ## Required IDF version
   idf:
